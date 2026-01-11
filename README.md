@@ -6,8 +6,8 @@ This is a professional `README.md` specifically tailored for your **Medical Reas
 
 # Gemma 3 1B Medical Reasoning (GRPO) 🏥
 
-[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/your-username/gemma3-1b-medical-grpo)
-[![Dataset: PubMedQA](https://img.shields.io/badge/Dataset-PubMedQA-red)](https://huggingface.co/datasets/pubmed_qa)
+[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/tanicodesallday/gemma3-1b-medical-grpo)
+[![PubMedQA Dataset](https://img.shields.io/badge/%F0%9F%8F%A5%20PubMedQA-Dataset-red)](https://huggingface.co/datasets/bigbio/pubmed_qa)
 
 ## 📌 Problem Statement
 Medical diagnosis and clinical decision-making require more than just factual knowledge; they require **evidence-based reasoning**. While large models excel at this, Small Language Models (SLMs) often provide "hallucinated" or direct answers without explaining the underlying clinical logic.
@@ -66,8 +66,9 @@ The model shifted from providing brief answers to conducting a full "Differentia
 | **Verdict** | "Yes/No" | "Yes/No/Maybe" with logic |
 
 ### Evaluation Data
-The side-by-side comparison of 100 clinical test cases can be found here:
-👉 **[View medical_comparison_results.csv](./medical_comparison_results.csv)**
+We compare the performance of the base model and the GRPO fine-tuned model across 50 evaluation cases.
+
+
 
 ---
 
