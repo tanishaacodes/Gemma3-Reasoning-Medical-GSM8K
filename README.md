@@ -66,7 +66,8 @@ The model shifted from providing brief answers to conducting a full "Differentia
 | **Verdict** | "Yes/No" | "Yes/No/Maybe" with logic |
 
 ### Evaluation Data
-We compare the performance of the base model and the GRPO fine-tuned model across 50 evaluation cases.
+We compare the performance of the base model and the GRPO fine-tuned model across 50 evaluation cases.[Open file](quick_medical_comparison.csv)
+
 
 
 
