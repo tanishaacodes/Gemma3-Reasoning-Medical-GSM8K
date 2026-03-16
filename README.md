@@ -1,6 +1,6 @@
 # Gemma3-Reasoning-Medical-GSM8K
-A learning experiment that has been fine tuned on a medical dataset(PubMedQA)
-This is a professional `README.md` specifically tailored for your **Medical Reasoning** model. It maintains the technical depth of your previous one but pivots the focus to clinical context and PubMed data.
+A learning experiment that has been fine tuned on a medical dataset (PubMedQA)
+
 
 ---
 
